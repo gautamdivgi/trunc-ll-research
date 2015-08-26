@@ -1,0 +1,1302 @@
+Removing old data...
+		 Initializing - deleting all data
+		 OK
+Processing datasets...
+Validating entry -  SLEN_ALL
+		 Existence of SLEN_ALL[/home/gautam/research/ml_data/azu/slen/all]:  True
+	 Inserting entry -  SLEN_ALL
+		 Inserting base entry for SLEN_ALL[/home/gautam/research/ml_data/azu/slen/all]
+		 OK
+	 Computing basic stats for -  SLEN_ALL
+		 Inserting basic stats for SLEN_ALL[/home/gautam/research/ml_data/azu/slen/all]
+		 OK
+	 Computing FITs for -  SLEN_ALL
+		 Inserting logn fits for SLEN_ALL
+		 OK
+		 Inserting Tpareto fits for SLEN_ALL
+		 OK
+		 Inserting LogLogistic fits for SLEN_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for SLEN_ALL
+		 OK
+Validating entry -  BIN_ALL
+		 Existence of BIN_ALL[/home/gautam/research/ml_data/azu/bin/all]:  True
+	 Inserting entry -  BIN_ALL
+		 Inserting base entry for BIN_ALL[/home/gautam/research/ml_data/azu/bin/all]
+		 OK
+	 Computing basic stats for -  BIN_ALL
+		 Inserting basic stats for BIN_ALL[/home/gautam/research/ml_data/azu/bin/all]
+		 OK
+	 Computing FITs for -  BIN_ALL
+		 Inserting logn fits for BIN_ALL
+		 OK
+		 Inserting Tpareto fits for BIN_ALL
+		 OK
+		 Inserting LogLogistic fits for BIN_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for BIN_ALL
+		 OK
+Validating entry -  BOUT_ALL
+		 Existence of BOUT_ALL[/home/gautam/research/ml_data/azu/bout/all]:  True
+	 Inserting entry -  BOUT_ALL
+		 Inserting base entry for BOUT_ALL[/home/gautam/research/ml_data/azu/bout/all]
+		 OK
+	 Computing basic stats for -  BOUT_ALL
+		 Inserting basic stats for BOUT_ALL[/home/gautam/research/ml_data/azu/bout/all]
+		 OK
+	 Computing FITs for -  BOUT_ALL
+		 Inserting logn fits for BOUT_ALL
+		 OK
+		 Inserting Tpareto fits for BOUT_ALL
+		 OK
+		 Inserting LogLogistic fits for BOUT_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for BOUT_ALL
+		 OK
+Validating entry -  TO_BIN_ALL
+		 Existence of TO_BIN_ALL[/home/gautam/research/ml_data/azu/to_inb/all]:  True
+	 Inserting entry -  TO_BIN_ALL
+		 Inserting base entry for TO_BIN_ALL[/home/gautam/research/ml_data/azu/to_inb/all]
+		 OK
+	 Computing basic stats for -  TO_BIN_ALL
+		 Inserting basic stats for TO_BIN_ALL[/home/gautam/research/ml_data/azu/to_inb/all]
+		 OK
+	 Computing FITs for -  TO_BIN_ALL
+		 Inserting logn fits for TO_BIN_ALL
+		 OK
+		 Inserting Tpareto fits for TO_BIN_ALL
+		 OK
+		 Inserting LogLogistic fits for TO_BIN_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for TO_BIN_ALL
+		 OK
+Validating entry -  TO_BOUT_ALL
+		 Existence of TO_BOUT_ALL[/home/gautam/research/ml_data/azu/to_outb/all]:  True
+	 Inserting entry -  TO_BOUT_ALL
+		 Inserting base entry for TO_BOUT_ALL[/home/gautam/research/ml_data/azu/to_outb/all]
+		 OK
+	 Computing basic stats for -  TO_BOUT_ALL
+		 Inserting basic stats for TO_BOUT_ALL[/home/gautam/research/ml_data/azu/to_outb/all]
+		 OK
+	 Computing FITs for -  TO_BOUT_ALL
+		 Inserting logn fits for TO_BOUT_ALL
+		 OK
+		 Inserting Tpareto fits for TO_BOUT_ALL
+		 OK
+		 Inserting LogLogistic fits for TO_BOUT_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for TO_BOUT_ALL
+		 OK
+Validating entry -  TSLEN_ALL
+		 Existence of TSLEN_ALL[/home/gautam/research/ml_data/azu/tslen/all]:  True
+	 Inserting entry -  TSLEN_ALL
+		 Inserting base entry for TSLEN_ALL[/home/gautam/research/ml_data/azu/tslen/all]
+		 OK
+	 Computing basic stats for -  TSLEN_ALL
+		 Inserting basic stats for TSLEN_ALL[/home/gautam/research/ml_data/azu/tslen/all]
+		 OK
+	 Computing FITs for -  TSLEN_ALL
+		 Inserting logn fits for TSLEN_ALL
+		 OK
+		 Inserting Tpareto fits for TSLEN_ALL
+		 OK
+		 Inserting LogLogistic fits for TSLEN_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for TSLEN_ALL
+		 OK
+Validating entry -  TBIN_ALL
+		 Existence of TBIN_ALL[/home/gautam/research/ml_data/azu/tinb/all]:  True
+	 Inserting entry -  TBIN_ALL
+		 Inserting base entry for TBIN_ALL[/home/gautam/research/ml_data/azu/tinb/all]
+		 OK
+	 Computing basic stats for -  TBIN_ALL
+		 Inserting basic stats for TBIN_ALL[/home/gautam/research/ml_data/azu/tinb/all]
+		 OK
+	 Computing FITs for -  TBIN_ALL
+		 Inserting logn fits for TBIN_ALL
+		 OK
+		 Inserting Tpareto fits for TBIN_ALL
+		 OK
+		 Inserting LogLogistic fits for TBIN_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for TBIN_ALL
+		 OK
+Validating entry -  TBOUT_ALL
+		 Existence of TBOUT_ALL[/home/gautam/research/ml_data/azu/toutb/all]:  True
+	 Inserting entry -  TBOUT_ALL
+		 Inserting base entry for TBOUT_ALL[/home/gautam/research/ml_data/azu/toutb/all]
+		 OK
+	 Computing basic stats for -  TBOUT_ALL
+		 Inserting basic stats for TBOUT_ALL[/home/gautam/research/ml_data/azu/toutb/all]
+		 OK
+	 Computing FITs for -  TBOUT_ALL
+		 Inserting logn fits for TBOUT_ALL
+		 OK
+		 Inserting Tpareto fits for TBOUT_ALL
+		 OK
+		 Inserting LogLogistic fits for TBOUT_ALL
+		 OK
+		 Inserting TruncLogLogistic fits for TBOUT_ALL
+		 OK
+Validating entry -  SLEN_CATM
+		 Existence of SLEN_CATM[/home/gautam/research/ml_data/azu/slen/catm]:  True
+	 Inserting entry -  SLEN_CATM
+		 Inserting base entry for SLEN_CATM[/home/gautam/research/ml_data/azu/slen/catm]
+		 OK
+	 Computing basic stats for -  SLEN_CATM
+		 Inserting basic stats for SLEN_CATM[/home/gautam/research/ml_data/azu/slen/catm]
+		 OK
+	 Computing FITs for -  SLEN_CATM
+		 Inserting logn fits for SLEN_CATM
+		 OK
+		 Inserting Tpareto fits for SLEN_CATM
+		 OK
+		 Inserting LogLogistic fits for SLEN_CATM
+		 OK
+Exception ->  Error occurred while calling the Python function named __solve_mle
+Exception ->  Error occurred while calling the Python function named __solve_mle
+Exception ->  Error occurred while calling the Python function named __solve_mle
+		 Inserting TruncLogLogistic fits for SLEN_CATM
+		 OK
+Validating entry -  BIN_CATM
+		 Existence of BIN_CATM[/home/gautam/research/ml_data/azu/bin/catm]:  True
+	 Inserting entry -  BIN_CATM
+		 Inserting base entry for BIN_CATM[/home/gautam/research/ml_data/azu/bin/catm]
+		 OK
+	 Computing basic stats for -  BIN_CATM
+		 Inserting basic stats for BIN_CATM[/home/gautam/research/ml_data/azu/bin/catm]
+		 OK
+	 Computing FITs for -  BIN_CATM
+		 Inserting logn fits for BIN_CATM
+		 OK
+		 Inserting Tpareto fits for BIN_CATM
+		 OK
+		 Inserting LogLogistic fits for BIN_CATM
+		 OK
+		 Inserting TruncLogLogistic fits for BIN_CATM
+		 OK
+Validating entry -  BOUT_CATM
+		 Existence of BOUT_CATM[/home/gautam/research/ml_data/azu/bout/catm]:  True
+	 Inserting entry -  BOUT_CATM
+		 Inserting base entry for BOUT_CATM[/home/gautam/research/ml_data/azu/bout/catm]
+		 OK
+	 Computing basic stats for -  BOUT_CATM
+		 Inserting basic stats for BOUT_CATM[/home/gautam/research/ml_data/azu/bout/catm]
+		 OK
+	 Computing FITs for -  BOUT_CATM
+		 Inserting logn fits for BOUT_CATM
+		 OK
+		 Inserting Tpareto fits for BOUT_CATM
+		 OK
+		 Inserting LogLogistic fits for BOUT_CATM
+		 OK
+		 Inserting TruncLogLogistic fits for BOUT_CATM
+		 OK
+Validating entry -  TSLEN_CATM
+		 Existence of TSLEN_CATM[/home/gautam/research/ml_data/azu/tslen/catm]:  True
+	 Inserting entry -  TSLEN_CATM
+		 Inserting base entry for TSLEN_CATM[/home/gautam/research/ml_data/azu/tslen/catm]
+		 OK
+	 Computing basic stats for -  TSLEN_CATM
+		 Inserting basic stats for TSLEN_CATM[/home/gautam/research/ml_data/azu/tslen/catm]
+		 OK
+	 Computing FITs for -  TSLEN_CATM
+		 Inserting logn fits for TSLEN_CATM
+		 OK
+		 Inserting Tpareto fits for TSLEN_CATM
+		 OK
+		 Inserting LogLogistic fits for TSLEN_CATM
+		 OK
+		 Inserting TruncLogLogistic fits for TSLEN_CATM
+		 OK
+Validating entry -  TBIN_CATM
+		 Existence of TBIN_CATM[/home/gautam/research/ml_data/azu/tinb/catm]:  True
+	 Inserting entry -  TBIN_CATM
+		 Inserting base entry for TBIN_CATM[/home/gautam/research/ml_data/azu/tinb/catm]
+		 OK
+	 Computing basic stats for -  TBIN_CATM
+		 Inserting basic stats for TBIN_CATM[/home/gautam/research/ml_data/azu/tinb/catm]
+		 OK
+	 Computing FITs for -  TBIN_CATM
+		 Inserting logn fits for TBIN_CATM
+		 OK
+		 Inserting Tpareto fits for TBIN_CATM
+		 OK
+		 Inserting LogLogistic fits for TBIN_CATM
+		 OK
+		 Inserting TruncLogLogistic fits for TBIN_CATM
+		 OK
+Validating entry -  TBOUT_CATM
+		 Existence of TBOUT_CATM[/home/gautam/research/ml_data/azu/toutb/catm]:  True
+	 Inserting entry -  TBOUT_CATM
+		 Inserting base entry for TBOUT_CATM[/home/gautam/research/ml_data/azu/toutb/catm]
+		 OK
+	 Computing basic stats for -  TBOUT_CATM
+		 Inserting basic stats for TBOUT_CATM[/home/gautam/research/ml_data/azu/toutb/catm]
+		 OK
+	 Computing FITs for -  TBOUT_CATM
+		 Inserting logn fits for TBOUT_CATM
+		 OK
+		 Inserting Tpareto fits for TBOUT_CATM
+		 OK
+		 Inserting LogLogistic fits for TBOUT_CATM
+		 OK
+		 Inserting TruncLogLogistic fits for TBOUT_CATM
+		 OK
+Validating entry -  SLEN_CATD
+		 Existence of SLEN_CATD[/home/gautam/research/ml_data/azu/slen/catd]:  True
+	 Inserting entry -  SLEN_CATD
+		 Inserting base entry for SLEN_CATD[/home/gautam/research/ml_data/azu/slen/catd]
+		 OK
+	 Computing basic stats for -  SLEN_CATD
+		 Inserting basic stats for SLEN_CATD[/home/gautam/research/ml_data/azu/slen/catd]
+		 OK
+	 Computing FITs for -  SLEN_CATD
+		 Inserting logn fits for SLEN_CATD
+		 OK
+		 Inserting Tpareto fits for SLEN_CATD
+		 OK
+		 Inserting LogLogistic fits for SLEN_CATD
+		 OK
+Exception ->  Error occurred while calling the Python function named __solve_mle
+Exception ->  Error occurred while calling the Python function named __solve_mle
+Exception ->  Error occurred while calling the Python function named __solve_mle
+		 Inserting TruncLogLogistic fits for SLEN_CATD
+		 OK
+Validating entry -  BIN_CATD
+		 Existence of BIN_CATD[/home/gautam/research/ml_data/azu/bin/catd]:  True
+	 Inserting entry -  BIN_CATD
+		 Inserting base entry for BIN_CATD[/home/gautam/research/ml_data/azu/bin/catd]
+		 OK
+	 Computing basic stats for -  BIN_CATD
+		 Inserting basic stats for BIN_CATD[/home/gautam/research/ml_data/azu/bin/catd]
+		 OK
+	 Computing FITs for -  BIN_CATD
+		 Inserting logn fits for BIN_CATD
+		 OK
+		 Inserting Tpareto fits for BIN_CATD
+		 OK
+		 Inserting LogLogistic fits for BIN_CATD
+		 OK
+		 Inserting TruncLogLogistic fits for BIN_CATD
+		 OK
+Validating entry -  BOUT_CATD
+		 Existence of BOUT_CATD[/home/gautam/research/ml_data/azu/bout/catd]:  True
+	 Inserting entry -  BOUT_CATD
+		 Inserting base entry for BOUT_CATD[/home/gautam/research/ml_data/azu/bout/catd]
+		 OK
+	 Computing basic stats for -  BOUT_CATD
+		 Inserting basic stats for BOUT_CATD[/home/gautam/research/ml_data/azu/bout/catd]
+		 OK
+	 Computing FITs for -  BOUT_CATD
+		 Inserting logn fits for BOUT_CATD
+		 OK
+		 Inserting Tpareto fits for BOUT_CATD
+		 OK
+		 Inserting LogLogistic fits for BOUT_CATD
+		 OK
+		 Inserting TruncLogLogistic fits for BOUT_CATD
+		 OK
+Validating entry -  TSLEN_CATD
+		 Existence of TSLEN_CATD[/home/gautam/research/ml_data/azu/tslen/catd]:  True
+	 Inserting entry -  TSLEN_CATD
+		 Inserting base entry for TSLEN_CATD[/home/gautam/research/ml_data/azu/tslen/catd]
+		 OK
+	 Computing basic stats for -  TSLEN_CATD
+		 Inserting basic stats for TSLEN_CATD[/home/gautam/research/ml_data/azu/tslen/catd]
+		 OK
+	 Computing FITs for -  TSLEN_CATD
+		 Inserting logn fits for TSLEN_CATD
+		 OK
+		 Inserting Tpareto fits for TSLEN_CATD
+		 OK
+		 Inserting LogLogistic fits for TSLEN_CATD
+		 OK
+		 Inserting TruncLogLogistic fits for TSLEN_CATD
+		 OK
+Validating entry -  TBIN_CATD
+		 Existence of TBIN_CATD[/home/gautam/research/ml_data/azu/tinb/catd]:  True
+	 Inserting entry -  TBIN_CATD
+		 Inserting base entry for TBIN_CATD[/home/gautam/research/ml_data/azu/tinb/catd]
+		 OK
+	 Computing basic stats for -  TBIN_CATD
+		 Inserting basic stats for TBIN_CATD[/home/gautam/research/ml_data/azu/tinb/catd]
+		 OK
+	 Computing FITs for -  TBIN_CATD
+		 Inserting logn fits for TBIN_CATD
+		 OK
+		 Inserting Tpareto fits for TBIN_CATD
+		 OK
+		 Inserting LogLogistic fits for TBIN_CATD
+		 OK
+		 Inserting TruncLogLogistic fits for TBIN_CATD
+		 OK
+Validating entry -  TBOUT_CATD
+		 Existence of TBOUT_CATD[/home/gautam/research/ml_data/azu/toutb/catd]:  True
+	 Inserting entry -  TBOUT_CATD
+		 Inserting base entry for TBOUT_CATD[/home/gautam/research/ml_data/azu/toutb/catd]
+		 OK
+	 Computing basic stats for -  TBOUT_CATD
+		 Inserting basic stats for TBOUT_CATD[/home/gautam/research/ml_data/azu/toutb/catd]
+		 OK
+	 Computing FITs for -  TBOUT_CATD
+		 Inserting logn fits for TBOUT_CATD
+		 OK
+		 Inserting Tpareto fits for TBOUT_CATD
+		 OK
+		 Inserting LogLogistic fits for TBOUT_CATD
+		 OK
+		 Inserting TruncLogLogistic fits for TBOUT_CATD
+		 OK
+Validating entry -  SLEN_CATH
+		 Existence of SLEN_CATH[/home/gautam/research/ml_data/azu/slen/cath]:  True
+	 Inserting entry -  SLEN_CATH
+		 Inserting base entry for SLEN_CATH[/home/gautam/research/ml_data/azu/slen/cath]
+		 OK
+	 Computing basic stats for -  SLEN_CATH
+		 Inserting basic stats for SLEN_CATH[/home/gautam/research/ml_data/azu/slen/cath]
+		 OK
+	 Computing FITs for -  SLEN_CATH
+		 Inserting logn fits for SLEN_CATH
+		 OK
+		 Inserting Tpareto fits for SLEN_CATH
+		 OK
+		 Inserting LogLogistic fits for SLEN_CATH
+		 OK
+		 Inserting TruncLogLogistic fits for SLEN_CATH
+		 OK
+Validating entry -  BIN_CATH
+		 Existence of BIN_CATH[/home/gautam/research/ml_data/azu/bin/cath]:  True
+	 Inserting entry -  BIN_CATH
+		 Inserting base entry for BIN_CATH[/home/gautam/research/ml_data/azu/bin/cath]
+		 OK
+	 Computing basic stats for -  BIN_CATH
+		 Inserting basic stats for BIN_CATH[/home/gautam/research/ml_data/azu/bin/cath]
+		 OK
+	 Computing FITs for -  BIN_CATH
+		 Inserting logn fits for BIN_CATH
+		 OK
+		 Inserting Tpareto fits for BIN_CATH
+		 OK
+		 Inserting LogLogistic fits for BIN_CATH
+		 OK
+		 Inserting TruncLogLogistic fits for BIN_CATH
+		 OK
+Validating entry -  BOUT_CATH
+		 Existence of BOUT_CATH[/home/gautam/research/ml_data/azu/bout/cath]:  True
+	 Inserting entry -  BOUT_CATH
+		 Inserting base entry for BOUT_CATH[/home/gautam/research/ml_data/azu/bout/cath]
+		 OK
+	 Computing basic stats for -  BOUT_CATH
+		 Inserting basic stats for BOUT_CATH[/home/gautam/research/ml_data/azu/bout/cath]
+		 OK
+	 Computing FITs for -  BOUT_CATH
+		 Inserting logn fits for BOUT_CATH
+		 OK
+		 Inserting Tpareto fits for BOUT_CATH
+		 OK
+		 Inserting LogLogistic fits for BOUT_CATH
+		 OK
+		 Inserting TruncLogLogistic fits for BOUT_CATH
+		 OK
+Validating entry -  TSLEN_CATH
+		 Existence of TSLEN_CATH[/home/gautam/research/ml_data/azu/tslen/cath]:  True
+	 Inserting entry -  TSLEN_CATH
+		 Inserting base entry for TSLEN_CATH[/home/gautam/research/ml_data/azu/tslen/cath]
+		 OK
+	 Computing basic stats for -  TSLEN_CATH
+		 Inserting basic stats for TSLEN_CATH[/home/gautam/research/ml_data/azu/tslen/cath]
+		 OK
+	 Computing FITs for -  TSLEN_CATH
+		 Inserting logn fits for TSLEN_CATH
+		 OK
+		 Inserting Tpareto fits for TSLEN_CATH
+		 OK
+		 Inserting LogLogistic fits for TSLEN_CATH
+		 OK
+		 Inserting TruncLogLogistic fits for TSLEN_CATH
+		 OK
+Validating entry -  TBIN_CATH
+		 Existence of TBIN_CATH[/home/gautam/research/ml_data/azu/tinb/cath]:  True
+	 Inserting entry -  TBIN_CATH
+		 Inserting base entry for TBIN_CATH[/home/gautam/research/ml_data/azu/tinb/cath]
+		 OK
+	 Computing basic stats for -  TBIN_CATH
+		 Inserting basic stats for TBIN_CATH[/home/gautam/research/ml_data/azu/tinb/cath]
+		 OK
+	 Computing FITs for -  TBIN_CATH
+		 Inserting logn fits for TBIN_CATH
+		 OK
+		 Inserting Tpareto fits for TBIN_CATH
+		 OK
+		 Inserting LogLogistic fits for TBIN_CATH
+		 OK
+		 Inserting TruncLogLogistic fits for TBIN_CATH
+		 OK
+Validating entry -  TBOUT_CATH
+		 Existence of TBOUT_CATH[/home/gautam/research/ml_data/azu/toutb/cath]:  True
+	 Inserting entry -  TBOUT_CATH
+		 Inserting base entry for TBOUT_CATH[/home/gautam/research/ml_data/azu/toutb/cath]
+		 OK
+	 Computing basic stats for -  TBOUT_CATH
+		 Inserting basic stats for TBOUT_CATH[/home/gautam/research/ml_data/azu/toutb/cath]
+		 OK
+	 Computing FITs for -  TBOUT_CATH
+		 Inserting logn fits for TBOUT_CATH
+		 OK
+		 Inserting Tpareto fits for TBOUT_CATH
+		 OK
+		 Inserting LogLogistic fits for TBOUT_CATH
+		 OK
+		 Inserting TruncLogLogistic fits for TBOUT_CATH
+		 OK
+Validating entry -  CALGARY
+		 Existence of CALGARY[/home/gautam/research/ml_data/web_files/calgary]:  True
+	 Inserting entry -  CALGARY
+		 Inserting base entry for CALGARY[/home/gautam/research/ml_data/web_files/calgary]
+		 OK
+	 Computing basic stats for -  CALGARY
+		 Inserting basic stats for CALGARY[/home/gautam/research/ml_data/web_files/calgary]
+		 OK
+	 Computing FITs for -  CALGARY
+		 Inserting logn fits for CALGARY
+		 OK
+		 Inserting Tpareto fits for CALGARY
+		 OK
+		 Inserting LogLogistic fits for CALGARY
+		 OK
+		 Inserting TruncLogLogistic fits for CALGARY
+		 OK
+Validating entry -  CLARKNET
+		 Existence of CLARKNET[/home/gautam/research/ml_data/web_files/clarknet]:  True
+	 Inserting entry -  CLARKNET
+		 Inserting base entry for CLARKNET[/home/gautam/research/ml_data/web_files/clarknet]
+		 OK
+	 Computing basic stats for -  CLARKNET
+		 Inserting basic stats for CLARKNET[/home/gautam/research/ml_data/web_files/clarknet]
+		 OK
+	 Computing FITs for -  CLARKNET
+		 Inserting logn fits for CLARKNET
+		 OK
+		 Inserting Tpareto fits for CLARKNET
+		 OK
+		 Inserting LogLogistic fits for CLARKNET
+		 OK
+		 Inserting TruncLogLogistic fits for CLARKNET
+		 OK
+Validating entry -  FTP_FLOW_SIZE
+		 Existence of FTP_FLOW_SIZE[/home/gautam/research/ml_data/web_files/flow_size]:  True
+	 Inserting entry -  FTP_FLOW_SIZE
+		 Inserting base entry for FTP_FLOW_SIZE[/home/gautam/research/ml_data/web_files/flow_size]
+		 OK
+	 Computing basic stats for -  FTP_FLOW_SIZE
+		 Inserting basic stats for FTP_FLOW_SIZE[/home/gautam/research/ml_data/web_files/flow_size]
+		 OK
+	 Computing FITs for -  FTP_FLOW_SIZE
+		 Inserting logn fits for FTP_FLOW_SIZE
+		 OK
+		 Inserting Tpareto fits for FTP_FLOW_SIZE
+		 OK
+		 Inserting LogLogistic fits for FTP_FLOW_SIZE
+		 OK
+		 Inserting TruncLogLogistic fits for FTP_FLOW_SIZE
+		 OK
+Validating entry -  FTP_FILE_SIZE
+		 Existence of FTP_FILE_SIZE[/home/gautam/research/ml_data/web_files/ftp_size]:  True
+	 Inserting entry -  FTP_FILE_SIZE
+		 Inserting base entry for FTP_FILE_SIZE[/home/gautam/research/ml_data/web_files/ftp_size]
+		 OK
+	 Computing basic stats for -  FTP_FILE_SIZE
+		 Inserting basic stats for FTP_FILE_SIZE[/home/gautam/research/ml_data/web_files/ftp_size]
+		 OK
+	 Computing FITs for -  FTP_FILE_SIZE
+		 Inserting logn fits for FTP_FILE_SIZE
+		 OK
+		 Inserting Tpareto fits for FTP_FILE_SIZE
+		 OK
+		 Inserting LogLogistic fits for FTP_FILE_SIZE
+		 OK
+		 Inserting TruncLogLogistic fits for FTP_FILE_SIZE
+		 OK
+Validating entry -  FTP_XFER_TIME
+		 Existence of FTP_XFER_TIME[/home/gautam/research/ml_data/web_files/ftp_time]:  True
+	 Inserting entry -  FTP_XFER_TIME
+		 Inserting base entry for FTP_XFER_TIME[/home/gautam/research/ml_data/web_files/ftp_time]
+		 OK
+	 Computing basic stats for -  FTP_XFER_TIME
+		 Inserting basic stats for FTP_XFER_TIME[/home/gautam/research/ml_data/web_files/ftp_time]
+		 OK
+	 Computing FITs for -  FTP_XFER_TIME
+		 Inserting logn fits for FTP_XFER_TIME
+		 OK
+		 Inserting Tpareto fits for FTP_XFER_TIME
+		 OK
+		 Inserting LogLogistic fits for FTP_XFER_TIME
+		 OK
+		 Inserting TruncLogLogistic fits for FTP_XFER_TIME
+		 OK
+Validating entry -  NASA
+		 Existence of NASA[/home/gautam/research/ml_data/web_files/nasa]:  True
+	 Inserting entry -  NASA
+		 Inserting base entry for NASA[/home/gautam/research/ml_data/web_files/nasa]
+		 OK
+	 Computing basic stats for -  NASA
+		 Inserting basic stats for NASA[/home/gautam/research/ml_data/web_files/nasa]
+		 OK
+	 Computing FITs for -  NASA
+		 Inserting logn fits for NASA
+		 OK
+		 Inserting Tpareto fits for NASA
+		 OK
+		 Inserting LogLogistic fits for NASA
+		 OK
+		 Inserting TruncLogLogistic fits for NASA
+		 OK
+Validating entry -  SASK
+		 Existence of SASK[/home/gautam/research/ml_data/web_files/saskatchewan]:  True
+	 Inserting entry -  SASK
+		 Inserting base entry for SASK[/home/gautam/research/ml_data/web_files/saskatchewan]
+		 OK
+	 Computing basic stats for -  SASK
+		 Inserting basic stats for SASK[/home/gautam/research/ml_data/web_files/saskatchewan]
+		 OK
+	 Computing FITs for -  SASK
+		 Inserting logn fits for SASK
+		 OK
+		 Inserting Tpareto fits for SASK
+		 OK
+		 Inserting LogLogistic fits for SASK
+		 OK
+		 Inserting TruncLogLogistic fits for SASK
+		 OK
+Validating entry -  SHOWME
+		 Existence of SHOWME[/home/gautam/research/ml_data/web_files/showme]:  True
+	 Inserting entry -  SHOWME
+		 Inserting base entry for SHOWME[/home/gautam/research/ml_data/web_files/showme]
+		 OK
+	 Computing basic stats for -  SHOWME
+		 Inserting basic stats for SHOWME[/home/gautam/research/ml_data/web_files/showme]
+		 OK
+	 Computing FITs for -  SHOWME
+		 Inserting logn fits for SHOWME
+		 OK
+		 Inserting Tpareto fits for SHOWME
+		 OK
+		 Inserting LogLogistic fits for SHOWME
+		 OK
+		 Inserting TruncLogLogistic fits for SHOWME
+		 OK
+Validating entry -  TWA
+		 Existence of TWA[/home/gautam/research/ml_data/web_files/twa]:  True
+	 Inserting entry -  TWA
+		 Inserting base entry for TWA[/home/gautam/research/ml_data/web_files/twa]
+		 OK
+	 Computing basic stats for -  TWA
+		 Inserting basic stats for TWA[/home/gautam/research/ml_data/web_files/twa]
+		 OK
+	 Computing FITs for -  TWA
+		 Inserting logn fits for TWA
+		 OK
+		 Inserting Tpareto fits for TWA
+		 OK
+		 Inserting LogLogistic fits for TWA
+		 OK
+		 Inserting TruncLogLogistic fits for TWA
+		 OK
+Validating entry -  W98
+		 Existence of W98[/home/gautam/research/ml_data/web_files/w98]:  True
+	 Inserting entry -  W98
+		 Inserting base entry for W98[/home/gautam/research/ml_data/web_files/w98]
+		 OK
+	 Computing basic stats for -  W98
+		 Inserting basic stats for W98[/home/gautam/research/ml_data/web_files/w98]
+		 OK
+	 Computing FITs for -  W98
+		 Inserting logn fits for W98
+		 OK
+		 Inserting Tpareto fits for W98
+		 OK
+		 Inserting LogLogistic fits for W98
+		 OK
+		 Inserting TruncLogLogistic fits for W98
+		 OK
+Validating entry -  UNC_FLOW_13
+		 Existence of UNC_FLOW_13[/home/gautam/research/ml_data/unc/flows/flow_13]:  True
+	 Inserting entry -  UNC_FLOW_13
+		 Inserting base entry for UNC_FLOW_13[/home/gautam/research/ml_data/unc/flows/flow_13]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_13
+		 Inserting basic stats for UNC_FLOW_13[/home/gautam/research/ml_data/unc/flows/flow_13]
+		 OK
+	 Computing FITs for -  UNC_FLOW_13
+		 Inserting logn fits for UNC_FLOW_13
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_13
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_13
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_13
+		 OK
+Validating entry -  UNC_FLOW_14
+		 Existence of UNC_FLOW_14[/home/gautam/research/ml_data/unc/flows/flow_14]:  True
+	 Inserting entry -  UNC_FLOW_14
+		 Inserting base entry for UNC_FLOW_14[/home/gautam/research/ml_data/unc/flows/flow_14]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_14
+		 Inserting basic stats for UNC_FLOW_14[/home/gautam/research/ml_data/unc/flows/flow_14]
+		 OK
+	 Computing FITs for -  UNC_FLOW_14
+		 Inserting logn fits for UNC_FLOW_14
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_14
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_14
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_14
+		 OK
+Validating entry -  UNC_FLOW_15
+		 Existence of UNC_FLOW_15[/home/gautam/research/ml_data/unc/flows/flow_15]:  True
+	 Inserting entry -  UNC_FLOW_15
+		 Inserting base entry for UNC_FLOW_15[/home/gautam/research/ml_data/unc/flows/flow_15]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_15
+		 Inserting basic stats for UNC_FLOW_15[/home/gautam/research/ml_data/unc/flows/flow_15]
+		 OK
+	 Computing FITs for -  UNC_FLOW_15
+		 Inserting logn fits for UNC_FLOW_15
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_15
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_15
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_15
+		 OK
+Validating entry -  UNC_FLOW_16
+		 Existence of UNC_FLOW_16[/home/gautam/research/ml_data/unc/flows/flow_16]:  True
+	 Inserting entry -  UNC_FLOW_16
+		 Inserting base entry for UNC_FLOW_16[/home/gautam/research/ml_data/unc/flows/flow_16]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_16
+		 Inserting basic stats for UNC_FLOW_16[/home/gautam/research/ml_data/unc/flows/flow_16]
+		 OK
+	 Computing FITs for -  UNC_FLOW_16
+		 Inserting logn fits for UNC_FLOW_16
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_16
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_16
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_16
+		 OK
+Validating entry -  UNC_FLOW_17
+		 Existence of UNC_FLOW_17[/home/gautam/research/ml_data/unc/flows/flow_17]:  True
+	 Inserting entry -  UNC_FLOW_17
+		 Inserting base entry for UNC_FLOW_17[/home/gautam/research/ml_data/unc/flows/flow_17]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_17
+		 Inserting basic stats for UNC_FLOW_17[/home/gautam/research/ml_data/unc/flows/flow_17]
+		 OK
+	 Computing FITs for -  UNC_FLOW_17
+		 Inserting logn fits for UNC_FLOW_17
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_17
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_17
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_17
+		 OK
+Validating entry -  UNC_FLOW_18
+		 Existence of UNC_FLOW_18[/home/gautam/research/ml_data/unc/flows/flow_18]:  True
+	 Inserting entry -  UNC_FLOW_18
+		 Inserting base entry for UNC_FLOW_18[/home/gautam/research/ml_data/unc/flows/flow_18]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_18
+		 Inserting basic stats for UNC_FLOW_18[/home/gautam/research/ml_data/unc/flows/flow_18]
+		 OK
+	 Computing FITs for -  UNC_FLOW_18
+		 Inserting logn fits for UNC_FLOW_18
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_18
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_18
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_18
+		 OK
+Validating entry -  UNC_FLOW_19
+		 Existence of UNC_FLOW_19[/home/gautam/research/ml_data/unc/flows/flow_19]:  True
+	 Inserting entry -  UNC_FLOW_19
+		 Inserting base entry for UNC_FLOW_19[/home/gautam/research/ml_data/unc/flows/flow_19]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_19
+		 Inserting basic stats for UNC_FLOW_19[/home/gautam/research/ml_data/unc/flows/flow_19]
+		 OK
+	 Computing FITs for -  UNC_FLOW_19
+		 Inserting logn fits for UNC_FLOW_19
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_19
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_19
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_19
+		 OK
+Validating entry -  UNC_FLOW_20
+		 Existence of UNC_FLOW_20[/home/gautam/research/ml_data/unc/flows/flow_20]:  True
+	 Inserting entry -  UNC_FLOW_20
+		 Inserting base entry for UNC_FLOW_20[/home/gautam/research/ml_data/unc/flows/flow_20]
+		 OK
+	 Computing basic stats for -  UNC_FLOW_20
+		 Inserting basic stats for UNC_FLOW_20[/home/gautam/research/ml_data/unc/flows/flow_20]
+		 OK
+	 Computing FITs for -  UNC_FLOW_20
+		 Inserting logn fits for UNC_FLOW_20
+		 OK
+		 Inserting Tpareto fits for UNC_FLOW_20
+		 OK
+		 Inserting LogLogistic fits for UNC_FLOW_20
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FLOW_20
+		 OK
+Validating entry -  UNC_SLEN_13
+		 Existence of UNC_SLEN_13[/home/gautam/research/ml_data/unc/seslen/day_13]:  True
+	 Inserting entry -  UNC_SLEN_13
+		 Inserting base entry for UNC_SLEN_13[/home/gautam/research/ml_data/unc/seslen/day_13]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_13
+		 Inserting basic stats for UNC_SLEN_13[/home/gautam/research/ml_data/unc/seslen/day_13]
+		 OK
+	 Computing FITs for -  UNC_SLEN_13
+		 Inserting logn fits for UNC_SLEN_13
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_13
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_13
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_13
+		 OK
+Validating entry -  UNC_SLEN_14
+		 Existence of UNC_SLEN_14[/home/gautam/research/ml_data/unc/seslen/day_14]:  True
+	 Inserting entry -  UNC_SLEN_14
+		 Inserting base entry for UNC_SLEN_14[/home/gautam/research/ml_data/unc/seslen/day_14]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_14
+		 Inserting basic stats for UNC_SLEN_14[/home/gautam/research/ml_data/unc/seslen/day_14]
+		 OK
+	 Computing FITs for -  UNC_SLEN_14
+		 Inserting logn fits for UNC_SLEN_14
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_14
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_14
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_14
+		 OK
+Validating entry -  UNC_SLEN_15
+		 Existence of UNC_SLEN_15[/home/gautam/research/ml_data/unc/seslen/day_15]:  True
+	 Inserting entry -  UNC_SLEN_15
+		 Inserting base entry for UNC_SLEN_15[/home/gautam/research/ml_data/unc/seslen/day_15]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_15
+		 Inserting basic stats for UNC_SLEN_15[/home/gautam/research/ml_data/unc/seslen/day_15]
+		 OK
+	 Computing FITs for -  UNC_SLEN_15
+		 Inserting logn fits for UNC_SLEN_15
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_15
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_15
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_15
+		 OK
+Validating entry -  UNC_SLEN_16
+		 Existence of UNC_SLEN_16[/home/gautam/research/ml_data/unc/seslen/day_16]:  True
+	 Inserting entry -  UNC_SLEN_16
+		 Inserting base entry for UNC_SLEN_16[/home/gautam/research/ml_data/unc/seslen/day_16]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_16
+		 Inserting basic stats for UNC_SLEN_16[/home/gautam/research/ml_data/unc/seslen/day_16]
+		 OK
+	 Computing FITs for -  UNC_SLEN_16
+		 Inserting logn fits for UNC_SLEN_16
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_16
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_16
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_16
+		 OK
+Validating entry -  UNC_SLEN_17
+		 Existence of UNC_SLEN_17[/home/gautam/research/ml_data/unc/seslen/day_17]:  True
+	 Inserting entry -  UNC_SLEN_17
+		 Inserting base entry for UNC_SLEN_17[/home/gautam/research/ml_data/unc/seslen/day_17]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_17
+		 Inserting basic stats for UNC_SLEN_17[/home/gautam/research/ml_data/unc/seslen/day_17]
+		 OK
+	 Computing FITs for -  UNC_SLEN_17
+		 Inserting logn fits for UNC_SLEN_17
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_17
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_17
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_17
+		 OK
+Validating entry -  UNC_SLEN_18
+		 Existence of UNC_SLEN_18[/home/gautam/research/ml_data/unc/seslen/day_18]:  True
+	 Inserting entry -  UNC_SLEN_18
+		 Inserting base entry for UNC_SLEN_18[/home/gautam/research/ml_data/unc/seslen/day_18]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_18
+		 Inserting basic stats for UNC_SLEN_18[/home/gautam/research/ml_data/unc/seslen/day_18]
+		 OK
+	 Computing FITs for -  UNC_SLEN_18
+		 Inserting logn fits for UNC_SLEN_18
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_18
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_18
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_18
+		 OK
+Validating entry -  UNC_SLEN_19
+		 Existence of UNC_SLEN_19[/home/gautam/research/ml_data/unc/seslen/day_19]:  True
+	 Inserting entry -  UNC_SLEN_19
+		 Inserting base entry for UNC_SLEN_19[/home/gautam/research/ml_data/unc/seslen/day_19]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_19
+		 Inserting basic stats for UNC_SLEN_19[/home/gautam/research/ml_data/unc/seslen/day_19]
+		 OK
+	 Computing FITs for -  UNC_SLEN_19
+		 Inserting logn fits for UNC_SLEN_19
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_19
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_19
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_19
+		 OK
+Validating entry -  UNC_SLEN_20
+		 Existence of UNC_SLEN_20[/home/gautam/research/ml_data/unc/seslen/day_20]:  True
+	 Inserting entry -  UNC_SLEN_20
+		 Inserting base entry for UNC_SLEN_20[/home/gautam/research/ml_data/unc/seslen/day_20]
+		 OK
+	 Computing basic stats for -  UNC_SLEN_20
+		 Inserting basic stats for UNC_SLEN_20[/home/gautam/research/ml_data/unc/seslen/day_20]
+		 OK
+	 Computing FITs for -  UNC_SLEN_20
+		 Inserting logn fits for UNC_SLEN_20
+		 OK
+		 Inserting Tpareto fits for UNC_SLEN_20
+		 OK
+		 Inserting LogLogistic fits for UNC_SLEN_20
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_SLEN_20
+		 OK
+Validating entry -  UNC_FCNT_13
+		 Existence of UNC_FCNT_13[/home/gautam/research/ml_data/unc/fcount/day_13]:  True
+	 Inserting entry -  UNC_FCNT_13
+		 Inserting base entry for UNC_FCNT_13[/home/gautam/research/ml_data/unc/fcount/day_13]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_13
+		 Inserting basic stats for UNC_FCNT_13[/home/gautam/research/ml_data/unc/fcount/day_13]
+		 OK
+	 Computing FITs for -  UNC_FCNT_13
+		 Inserting logn fits for UNC_FCNT_13
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_13
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_13
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_13
+		 OK
+Validating entry -  UNC_FCNT_14
+		 Existence of UNC_FCNT_14[/home/gautam/research/ml_data/unc/fcount/day_14]:  True
+	 Inserting entry -  UNC_FCNT_14
+		 Inserting base entry for UNC_FCNT_14[/home/gautam/research/ml_data/unc/fcount/day_14]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_14
+		 Inserting basic stats for UNC_FCNT_14[/home/gautam/research/ml_data/unc/fcount/day_14]
+		 OK
+	 Computing FITs for -  UNC_FCNT_14
+		 Inserting logn fits for UNC_FCNT_14
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_14
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_14
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_14
+		 OK
+Validating entry -  UNC_FCNT_15
+		 Existence of UNC_FCNT_15[/home/gautam/research/ml_data/unc/fcount/day_15]:  True
+	 Inserting entry -  UNC_FCNT_15
+		 Inserting base entry for UNC_FCNT_15[/home/gautam/research/ml_data/unc/fcount/day_15]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_15
+		 Inserting basic stats for UNC_FCNT_15[/home/gautam/research/ml_data/unc/fcount/day_15]
+		 OK
+	 Computing FITs for -  UNC_FCNT_15
+		 Inserting logn fits for UNC_FCNT_15
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_15
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_15
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_15
+		 OK
+Validating entry -  UNC_FCNT_16
+		 Existence of UNC_FCNT_16[/home/gautam/research/ml_data/unc/fcount/day_16]:  True
+	 Inserting entry -  UNC_FCNT_16
+		 Inserting base entry for UNC_FCNT_16[/home/gautam/research/ml_data/unc/fcount/day_16]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_16
+		 Inserting basic stats for UNC_FCNT_16[/home/gautam/research/ml_data/unc/fcount/day_16]
+		 OK
+	 Computing FITs for -  UNC_FCNT_16
+		 Inserting logn fits for UNC_FCNT_16
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_16
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_16
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_16
+		 OK
+Validating entry -  UNC_FCNT_17
+		 Existence of UNC_FCNT_17[/home/gautam/research/ml_data/unc/fcount/day_17]:  True
+	 Inserting entry -  UNC_FCNT_17
+		 Inserting base entry for UNC_FCNT_17[/home/gautam/research/ml_data/unc/fcount/day_17]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_17
+		 Inserting basic stats for UNC_FCNT_17[/home/gautam/research/ml_data/unc/fcount/day_17]
+		 OK
+	 Computing FITs for -  UNC_FCNT_17
+		 Inserting logn fits for UNC_FCNT_17
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_17
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_17
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_17
+		 OK
+Validating entry -  UNC_FCNT_18
+		 Existence of UNC_FCNT_18[/home/gautam/research/ml_data/unc/fcount/day_18]:  True
+	 Inserting entry -  UNC_FCNT_18
+		 Inserting base entry for UNC_FCNT_18[/home/gautam/research/ml_data/unc/fcount/day_18]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_18
+		 Inserting basic stats for UNC_FCNT_18[/home/gautam/research/ml_data/unc/fcount/day_18]
+		 OK
+	 Computing FITs for -  UNC_FCNT_18
+		 Inserting logn fits for UNC_FCNT_18
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_18
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_18
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_18
+		 OK
+Validating entry -  UNC_FCNT_19
+		 Existence of UNC_FCNT_19[/home/gautam/research/ml_data/unc/fcount/day_19]:  True
+	 Inserting entry -  UNC_FCNT_19
+		 Inserting base entry for UNC_FCNT_19[/home/gautam/research/ml_data/unc/fcount/day_19]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_19
+		 Inserting basic stats for UNC_FCNT_19[/home/gautam/research/ml_data/unc/fcount/day_19]
+		 OK
+	 Computing FITs for -  UNC_FCNT_19
+		 Inserting logn fits for UNC_FCNT_19
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_19
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_19
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_19
+		 OK
+Validating entry -  UNC_FCNT_20
+		 Existence of UNC_FCNT_20[/home/gautam/research/ml_data/unc/fcount/day_20]:  True
+	 Inserting entry -  UNC_FCNT_20
+		 Inserting base entry for UNC_FCNT_20[/home/gautam/research/ml_data/unc/fcount/day_20]
+		 OK
+	 Computing basic stats for -  UNC_FCNT_20
+		 Inserting basic stats for UNC_FCNT_20[/home/gautam/research/ml_data/unc/fcount/day_20]
+		 OK
+	 Computing FITs for -  UNC_FCNT_20
+		 Inserting logn fits for UNC_FCNT_20
+		 OK
+		 Inserting Tpareto fits for UNC_FCNT_20
+		 OK
+		 Inserting LogLogistic fits for UNC_FCNT_20
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_FCNT_20
+		 OK
+Validating entry -  UNC_NTER_13
+		 Existence of UNC_NTER_13[/home/gautam/research/ml_data/unc/interses/day_13]:  True
+	 Inserting entry -  UNC_NTER_13
+		 Inserting base entry for UNC_NTER_13[/home/gautam/research/ml_data/unc/interses/day_13]
+		 OK
+	 Computing basic stats for -  UNC_NTER_13
+		 Inserting basic stats for UNC_NTER_13[/home/gautam/research/ml_data/unc/interses/day_13]
+		 OK
+	 Computing FITs for -  UNC_NTER_13
+		 Inserting logn fits for UNC_NTER_13
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_13
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_13
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_13
+		 OK
+Validating entry -  UNC_NTER_14
+		 Existence of UNC_NTER_14[/home/gautam/research/ml_data/unc/interses/day_14]:  True
+	 Inserting entry -  UNC_NTER_14
+		 Inserting base entry for UNC_NTER_14[/home/gautam/research/ml_data/unc/interses/day_14]
+		 OK
+	 Computing basic stats for -  UNC_NTER_14
+		 Inserting basic stats for UNC_NTER_14[/home/gautam/research/ml_data/unc/interses/day_14]
+		 OK
+	 Computing FITs for -  UNC_NTER_14
+		 Inserting logn fits for UNC_NTER_14
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_14
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_14
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_14
+		 OK
+Validating entry -  UNC_NTER_15
+		 Existence of UNC_NTER_15[/home/gautam/research/ml_data/unc/interses/day_15]:  True
+	 Inserting entry -  UNC_NTER_15
+		 Inserting base entry for UNC_NTER_15[/home/gautam/research/ml_data/unc/interses/day_15]
+		 OK
+	 Computing basic stats for -  UNC_NTER_15
+		 Inserting basic stats for UNC_NTER_15[/home/gautam/research/ml_data/unc/interses/day_15]
+		 OK
+	 Computing FITs for -  UNC_NTER_15
+		 Inserting logn fits for UNC_NTER_15
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_15
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_15
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_15
+		 OK
+Validating entry -  UNC_NTER_16
+		 Existence of UNC_NTER_16[/home/gautam/research/ml_data/unc/interses/day_16]:  True
+	 Inserting entry -  UNC_NTER_16
+		 Inserting base entry for UNC_NTER_16[/home/gautam/research/ml_data/unc/interses/day_16]
+		 OK
+	 Computing basic stats for -  UNC_NTER_16
+		 Inserting basic stats for UNC_NTER_16[/home/gautam/research/ml_data/unc/interses/day_16]
+		 OK
+	 Computing FITs for -  UNC_NTER_16
+		 Inserting logn fits for UNC_NTER_16
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_16
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_16
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_16
+		 OK
+Validating entry -  UNC_NTER_17
+		 Existence of UNC_NTER_17[/home/gautam/research/ml_data/unc/interses/day_17]:  True
+	 Inserting entry -  UNC_NTER_17
+		 Inserting base entry for UNC_NTER_17[/home/gautam/research/ml_data/unc/interses/day_17]
+		 OK
+	 Computing basic stats for -  UNC_NTER_17
+		 Inserting basic stats for UNC_NTER_17[/home/gautam/research/ml_data/unc/interses/day_17]
+		 OK
+	 Computing FITs for -  UNC_NTER_17
+		 Inserting logn fits for UNC_NTER_17
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_17
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_17
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_17
+		 OK
+Validating entry -  UNC_NTER_18
+		 Existence of UNC_NTER_18[/home/gautam/research/ml_data/unc/interses/day_18]:  True
+	 Inserting entry -  UNC_NTER_18
+		 Inserting base entry for UNC_NTER_18[/home/gautam/research/ml_data/unc/interses/day_18]
+		 OK
+	 Computing basic stats for -  UNC_NTER_18
+		 Inserting basic stats for UNC_NTER_18[/home/gautam/research/ml_data/unc/interses/day_18]
+		 OK
+	 Computing FITs for -  UNC_NTER_18
+		 Inserting logn fits for UNC_NTER_18
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_18
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_18
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_18
+		 OK
+Validating entry -  UNC_NTER_19
+		 Existence of UNC_NTER_19[/home/gautam/research/ml_data/unc/interses/day_19]:  True
+	 Inserting entry -  UNC_NTER_19
+		 Inserting base entry for UNC_NTER_19[/home/gautam/research/ml_data/unc/interses/day_19]
+		 OK
+	 Computing basic stats for -  UNC_NTER_19
+		 Inserting basic stats for UNC_NTER_19[/home/gautam/research/ml_data/unc/interses/day_19]
+		 OK
+	 Computing FITs for -  UNC_NTER_19
+		 Inserting logn fits for UNC_NTER_19
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_19
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_19
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_19
+		 OK
+Validating entry -  UNC_NTER_20
+		 Existence of UNC_NTER_20[/home/gautam/research/ml_data/unc/interses/day_20]:  True
+	 Inserting entry -  UNC_NTER_20
+		 Inserting base entry for UNC_NTER_20[/home/gautam/research/ml_data/unc/interses/day_20]
+		 OK
+	 Computing basic stats for -  UNC_NTER_20
+		 Inserting basic stats for UNC_NTER_20[/home/gautam/research/ml_data/unc/interses/day_20]
+		 OK
+	 Computing FITs for -  UNC_NTER_20
+		 Inserting logn fits for UNC_NTER_20
+		 OK
+		 Inserting Tpareto fits for UNC_NTER_20
+		 OK
+		 Inserting LogLogistic fits for UNC_NTER_20
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTER_20
+		 OK
+Validating entry -  UNC_NTRA_13
+		 Existence of UNC_NTRA_13[/home/gautam/research/ml_data/unc/intrases/day_13]:  True
+	 Inserting entry -  UNC_NTRA_13
+		 Inserting base entry for UNC_NTRA_13[/home/gautam/research/ml_data/unc/intrases/day_13]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_13
+		 Inserting basic stats for UNC_NTRA_13[/home/gautam/research/ml_data/unc/intrases/day_13]
+		 OK
+	 Computing FITs for -  UNC_NTRA_13
+		 Inserting logn fits for UNC_NTRA_13
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_13
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_13
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_13
+		 OK
+Validating entry -  UNC_NTRA_14
+		 Existence of UNC_NTRA_14[/home/gautam/research/ml_data/unc/intrases/day_14]:  True
+	 Inserting entry -  UNC_NTRA_14
+		 Inserting base entry for UNC_NTRA_14[/home/gautam/research/ml_data/unc/intrases/day_14]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_14
+		 Inserting basic stats for UNC_NTRA_14[/home/gautam/research/ml_data/unc/intrases/day_14]
+		 OK
+	 Computing FITs for -  UNC_NTRA_14
+		 Inserting logn fits for UNC_NTRA_14
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_14
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_14
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_14
+		 OK
+Validating entry -  UNC_NTRA_15
+		 Existence of UNC_NTRA_15[/home/gautam/research/ml_data/unc/intrases/day_15]:  True
+	 Inserting entry -  UNC_NTRA_15
+		 Inserting base entry for UNC_NTRA_15[/home/gautam/research/ml_data/unc/intrases/day_15]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_15
+		 Inserting basic stats for UNC_NTRA_15[/home/gautam/research/ml_data/unc/intrases/day_15]
+		 OK
+	 Computing FITs for -  UNC_NTRA_15
+		 Inserting logn fits for UNC_NTRA_15
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_15
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_15
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_15
+		 OK
+Validating entry -  UNC_NTRA_16
+		 Existence of UNC_NTRA_16[/home/gautam/research/ml_data/unc/intrases/day_16]:  True
+	 Inserting entry -  UNC_NTRA_16
+		 Inserting base entry for UNC_NTRA_16[/home/gautam/research/ml_data/unc/intrases/day_16]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_16
+		 Inserting basic stats for UNC_NTRA_16[/home/gautam/research/ml_data/unc/intrases/day_16]
+		 OK
+	 Computing FITs for -  UNC_NTRA_16
+		 Inserting logn fits for UNC_NTRA_16
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_16
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_16
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_16
+		 OK
+Validating entry -  UNC_NTRA_17
+		 Existence of UNC_NTRA_17[/home/gautam/research/ml_data/unc/intrases/day_17]:  True
+	 Inserting entry -  UNC_NTRA_17
+		 Inserting base entry for UNC_NTRA_17[/home/gautam/research/ml_data/unc/intrases/day_17]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_17
+		 Inserting basic stats for UNC_NTRA_17[/home/gautam/research/ml_data/unc/intrases/day_17]
+		 OK
+	 Computing FITs for -  UNC_NTRA_17
+		 Inserting logn fits for UNC_NTRA_17
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_17
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_17
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_17
+		 OK
+Validating entry -  UNC_NTRA_18
+		 Existence of UNC_NTRA_18[/home/gautam/research/ml_data/unc/intrases/day_18]:  True
+	 Inserting entry -  UNC_NTRA_18
+		 Inserting base entry for UNC_NTRA_18[/home/gautam/research/ml_data/unc/intrases/day_18]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_18
+		 Inserting basic stats for UNC_NTRA_18[/home/gautam/research/ml_data/unc/intrases/day_18]
+		 OK
+	 Computing FITs for -  UNC_NTRA_18
+		 Inserting logn fits for UNC_NTRA_18
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_18
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_18
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_18
+		 OK
+Validating entry -  UNC_NTRA_19
+		 Existence of UNC_NTRA_19[/home/gautam/research/ml_data/unc/intrases/day_19]:  True
+	 Inserting entry -  UNC_NTRA_19
+		 Inserting base entry for UNC_NTRA_19[/home/gautam/research/ml_data/unc/intrases/day_19]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_19
+		 Inserting basic stats for UNC_NTRA_19[/home/gautam/research/ml_data/unc/intrases/day_19]
+		 OK
+	 Computing FITs for -  UNC_NTRA_19
+		 Inserting logn fits for UNC_NTRA_19
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_19
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_19
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_19
+		 OK
+Validating entry -  UNC_NTRA_20
+		 Existence of UNC_NTRA_20[/home/gautam/research/ml_data/unc/intrases/day_20]:  True
+	 Inserting entry -  UNC_NTRA_20
+		 Inserting base entry for UNC_NTRA_20[/home/gautam/research/ml_data/unc/intrases/day_20]
+		 OK
+	 Computing basic stats for -  UNC_NTRA_20
+		 Inserting basic stats for UNC_NTRA_20[/home/gautam/research/ml_data/unc/intrases/day_20]
+		 OK
+	 Computing FITs for -  UNC_NTRA_20
+		 Inserting logn fits for UNC_NTRA_20
+		 OK
+		 Inserting Tpareto fits for UNC_NTRA_20
+		 OK
+		 Inserting LogLogistic fits for UNC_NTRA_20
+		 OK
+		 Inserting TruncLogLogistic fits for UNC_NTRA_20
+		 OK
