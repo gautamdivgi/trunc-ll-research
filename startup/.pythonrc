@@ -1,0 +1,42 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import math
+import random
+import datetime as dt
+import time as tm
+import pytz
+import ConfigParser as cf
+import rpytools.tpareto as tp
+import rpytools.sql as sql
+import rpytools.pareto as pa
+import rpytools.mtpareto as mtp
+import rpytools.lognormal as logn
+import rpytools.modlav as ml
+import rpytools.util as util
+import rpytools.rangen as rng
+import scipy as sp
+import scipy.constants as spconst
+import scipy.optimize as spopt
+import scipy.stats as spstat
+import scipy.stats.mstats as spmstat
+import scipy.special as spspec
+
+import os
+import readline
+histfile = os.path.join(os.environ["HOME"], ".pyhist")
+try:
+	readline.read_history_file(histfile)
+except:
+	pass
+
+try:
+	plt.interactive(True)
+	plt.rcParams['font.size']=15.0
+except:
+	pass
+
+import atexit
+atexit.register(readline.write_history_file, histfile)
+del os, histfile, readline
+
+read_data = util.read_data
