@@ -1,0 +1,11 @@
+CDF
+F = log[(1/2)(1 + erf[(log[y]-u)/(sqrt[2] s)])] + log[1 - (1/2)(1 + erf[(log[z]-u)/(sqrt[2] s)])]
+
+Partial derivative w.r.t. u
+f1 = D[F,u]
+f2 = D[F,s]
+
+Jacobian
+D[f1,u] D[f1,s]
+
+D[f2,u] D[f2,s]

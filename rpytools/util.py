@@ -73,9 +73,9 @@ def ecdf(arr, **kwargs):
 	i = 0
 	n_dval = 0
 	ce = 0.0	
-	a_cdf = np.zeros((n,3),dtype=float)
+	a_cdf = np.zeros((int(n),3),dtype=float)
 
-	while i < n:
+	while i < int(n):
 		ce = arr[i]
 		while i < n and arr[i] <= ce:
 			i+= 1
