@@ -9,3 +9,21 @@ Jacobian
 D[f1,u] D[f1,s]
 
 D[f2,u] D[f2,s]
+
+New method from Dr. Chlebus
+F = (1/2)(1 + erf[(log[y] - u)/(sqrt[2] s)])/exp[u + s k]
+
+Partial derivative equations
+f1 = D[F,u]
+f2 = D[F,s]
+
+Jacobian
+D[f1,u], D[f1,s]
+D[f2,u], D[f2,s]
+
+Computing the needed partial derivatives
+D[F,u]
+D[F,s]
+D[D[F,u],u]
+D[D[F,s],s]
+D[D[F,u],s] = D[D[F,s],u]
